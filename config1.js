@@ -1,4 +1,4 @@
-exports.TOKEN = 'process.env.BOT_TOKEN'; // NTMwNzA3OTY1OTU1NTM4OTU0.DxDUBw.KHtMgMDlg_0tLD0MSvz1ogPKC9U
+exports.TOKEN = 'NTMwNzA3OTY1OTU1NTM4OTU0.DxDUBw.KHtMgMDlg_0tLD0MSvz1ogPKC9U'; //
 
 exports.PREFIX = '2';//1
 
